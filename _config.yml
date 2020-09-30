@@ -20,7 +20,7 @@ url: 'https://coiL10.github.io'
 
 author: Loïc Nguyen                # change to your full name
 
-avatar: https://koreus.cdn.li/thumbs/200804/southpark-chinese-backstreet-boys.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
   username: coiL10             # change to your github username
