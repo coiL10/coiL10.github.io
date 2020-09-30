@@ -12,7 +12,7 @@ Hi everyone ! Thanks for passing by.
 
 I just finished my Master at [EPFL](https://www.epfl.ch/fr/) and decided to start a blog to document my journey and learnings from this point onwards. :)
 
-During my master, I specizalized in Data Science (Machine learning, data analytics etc...) but I would love to get my software engineering back on tracks.
+During my master, I specialized in Data Science (Machine learning, data analytics etc...) but I would love to get my software engineering skills back on track.
 
 I'm going to try to post as much as I can !
 
